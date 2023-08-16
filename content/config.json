@@ -1,0 +1,43 @@
+{
+  "title": "Ali Haji",
+  "url": "https://ihaji.pro",
+  "subtitle": "Software Engineer, Artist and Bookworm.",
+  "copyright": "© All rights reserved.",
+  "googleAnalyticsId": "",
+  "disqusShortname": "",
+  "postsLimit": 4,
+  "pathPrefix": "/",
+  "menu": [
+    {
+      "label": "Articles",
+      "path": "/"
+    },
+    {
+      "label": "About me",
+      "path": "/pages/about"
+    }
+  ],
+  "author": {
+    "name": "Ali Haji",
+    "photo": "/photo.jpg",
+    "bio": "A Full-Stack Software Engineer with extensive background in developing web applications.",
+    "contacts": {
+      "rss": "",
+      "email": "",
+      "github": "Ali-Haji4",
+      "facebook": "",
+      "telegram": "",
+      "twitter": "iHajiPro",
+      "linkedin": "ali--haji",
+      "instagram": "",
+      "mastodon": "",
+      "line": "",
+      "weibo": "",
+      "gitlab": "",
+      "medium": "",
+      "youtube": "",
+      "codepen": "",
+      "soundcloud": ""
+    }
+  }
+}
